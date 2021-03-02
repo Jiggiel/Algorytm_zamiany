@@ -14,4 +14,4 @@ function convert(num) {
 if (n>=1&&n<1000)
 	document.write(convert(n));
 else
-	document.write("Błąd, można tylko przekonwertować liczbę z przedziału od 1 do 999")
+	document.write("Błąd, można tylko przekonwertować liczbę z przedziału od 1 do 999");
